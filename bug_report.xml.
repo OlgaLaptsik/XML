@@ -1,1 +1,4 @@
 
+{ "Actual_result" : "The bottom part of the Capital Com Online Investments dropdown list isn't shown on the main page after zooming the site to 150% ",
+   "Expected Result" : "All of the Capital Com Online Investments dropdown list is shown on the main page after zooming the site to 150% "
+}
